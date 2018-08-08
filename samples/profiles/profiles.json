@@ -4,10 +4,10 @@
       "application": "Profiles Customization Sample",
       "payload": {
         "include-files": [
-          "profiles/profilesCustomization.css"
+          "samples/profiles/profilesCustomization.css"
         ],
         "include-repo": {
-          "name": "global-samples"
+          "name": "BACCustomizer"
         },
         "cache-headers": {
           "cache-control": "max-age=0"
